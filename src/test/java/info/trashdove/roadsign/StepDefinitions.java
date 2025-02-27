@@ -1,4 +1,4 @@
-package com.example.roadsign;
+package info.trashdove.roadsign;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
